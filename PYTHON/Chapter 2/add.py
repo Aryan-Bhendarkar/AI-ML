@@ -1,0 +1,5 @@
+print("Enter two numbers to add them")
+num1 = input("Enter First Number :: ")
+num2 = input("Enter Second Number :: ")
+Answer = int(num1) + int(num2)
+print(Answer)
